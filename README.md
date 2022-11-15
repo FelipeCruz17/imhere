@@ -12,4 +12,4 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [TypeScript](https://www.typescriptlang.org/)
 
 
-https://img.shields.io/badge/License-MIT-green
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
