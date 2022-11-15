@@ -6,10 +6,10 @@
      Primeiro projeto da Trilha de React Native feito por Rocketseat. Introdução ao ecosistema do React Native. 
 </h3>
 
-## 🛠 Tecnologias
+### 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- [Expo][expo]
-- [React Native][rn]
-- [TypeScript][typescript]
+- [Expo](https://expo.io/)
+- [React Native](https://reactnative.dev/)
+- [TypeScript](https://www.typescriptlang.org/)
