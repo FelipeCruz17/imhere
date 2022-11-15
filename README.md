@@ -1,15 +1,15 @@
-# Fundamentos do React Native
+<h1 align="center">
+     <a href="#" alt="site do ecoleta"> Fundamentos do React Native </a>
+</h1>
 
-## Descrição do Projeto
-<p align="center">Projeto criado para aprendizado e preparação do ambiente de desenvolvimento de aplicações React Native</p>
+<h3 align="center">
+     Primeiro projeto da Trilha de React Native feito por Rocketseat. Introdução ao ecosistema do React Native. 
+</h3>
 
-### 🛠 Tecnologias
+## 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- [Expo](https://expo.io/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
-
-
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+- [Expo][expo]
+- [React Native][rn]
+- [TypeScript][typescript]
